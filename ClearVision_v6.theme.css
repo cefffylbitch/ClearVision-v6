@@ -16,11 +16,11 @@
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
-  --hover-color: #1e63b3; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
+  --main-color: #9c14ebbd; /* main accent color (hex, rgb or hsl) [default: #2780e6] */
+  --hover-color: #00ff0d; /* hover accent color (hex, rgb or hsl) [default: #1e63b3] */
   --success-color: #43b581; /* success accent color (hex, rgb or hsl) [default: #43b581] */
-  --danger-color: #982929; /* danger accent color (hex, rgb or hsl) [default: #982929] */
-  --url-color: var(--main-color); /*The color of url links [default: var(--main-color)]*/
+  --danger-color: #ff0a0a; /* danger accent color (hex, rgb or hsl) [default: #982929] */
+  --url-color: rgb(0, 132, 255); /*The color of url links [default: var(--main-color)]*/
 
   /* STATUS COLORS */
   --online-color: #43b581; /* online status color (hex, rgb or hsl) [default: #43b581] */
@@ -40,7 +40,7 @@
   /* APP BACKGROUND */
   --background-shading: 100%; /* app background shading (0 for complete smoothness) [default: 100%] */
   --background-overlay: rgba(0, 0, 0, 0.6); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
+  --background-image: url(https://i.redd.it/2sk9a11mm13b1.jpg); /* app background image (link must be HTTPS) [default: url(https://clearvision.github.io/images/sapphire.jpg)]*/
   --background-position: center; /* app background position [default: center] */
   --background-size: cover; /* app background size [default: cover] */
   --background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
@@ -54,7 +54,7 @@
   --background-blur: 0px; /* app background blur [default: 0px] */
 
   /* HOME BUTTON ICON */
-  --home-icon: url(https://clearvision.github.io/icons/discord.svg); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
+  --home-icon: url(https://i.redd.it/how-to-leave-town-wallpaper-because-i-didnt-like-any-of-the-v0-pi0tz76qzkta1.png?width=323&format=png&auto=webp&s=636a3be167b35b3101a2cf7f197eb4ae604ee1e1); /* home button icon (link must be HTTPS) [default: url(https://clearvision.github.io/icons/discord.svg)]*/
   --home-position: center; /* home button icon position [default: center] */
   --home-size: 40px; /* home button icon size [default: 40px] */
 
